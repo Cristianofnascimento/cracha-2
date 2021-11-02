@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://gist.githubusercontent.com/Cristianofnascimento/f9f47b91cb3043c0798f0d46870757aa/raw/7b733447f0816c475412800a68387b46f94200e1/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Cristianofnascimento/9da8631775da410fa459fbfe5ac3099a/raw/9b85d98a166807d83de2c609893bcd6ecec925b0/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Cristiano Nascimento</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
