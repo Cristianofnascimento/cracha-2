@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Cristiano Nascimento</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 An Developer Student focused on learning programming
+- 🔥 An Developer Student focused on learning programing
 
 - 👨‍💻 All of my projects are available at [Cristianofnascimento.dev](https://maykbrito.dev)
 
