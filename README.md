@@ -8,7 +8,6 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
-- ⚡ Fun fact **Oneye 😜**
 
 <br><br>
 
