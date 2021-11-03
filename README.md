@@ -4,8 +4,6 @@
 
 - 🔥 An Developer Student focused on learning programing
 
-- 👨‍💻 All of my projects are available at [Cristianofnascimento.dev](https://maykbrito.dev)
-
 - ▶️ I regularly post videos on [youtube.com/PhecGames](https://youtube.com/maykbrito)
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
